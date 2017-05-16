@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+.custom-font-josefin {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.custom-font-josefin-bold {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: bold;
+}
+
+.custom-font-droid {
+	font-family: 'Droid Sans', sans-serif;
+}
+
+.custom-font-droid-bold {
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: bold;
+}
+
+[hidden] { display: none !important;}
